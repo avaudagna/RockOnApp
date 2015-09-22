@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Color Palette -->
+    <color name="message_txt">#757575</color>
+    <color name="teal">#009688</color>
+
+    <!-- Theme Palette -->
+    <color name="primary">#3f51b5</color>
+    <color name="primary_dark">#303f9f</color>
+    <color name="accent">#c62828</color>
+
+</resources>

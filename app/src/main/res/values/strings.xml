@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RockOn App</string>
+    <string name="title">RockOn!</string>
+    <string name="details">Details View</string>
+    <string name="profile_desc">Profile default image.</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
